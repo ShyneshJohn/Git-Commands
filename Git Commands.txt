@@ -1,0 +1,4 @@
+Git is an important part of daily programming (especially if you're working with a team) and is widely used in the software industry.
+
+https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/
+https://git-scm.com/docs/git
